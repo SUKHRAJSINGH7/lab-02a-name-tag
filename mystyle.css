@@ -1,0 +1,31 @@
+
+* {
+    box-sizing: border-box;
+}
+
+.nametag {
+  width: 320px;
+  padding: 10px;
+  border: 5px solid goldenrod;
+  margin: 0;
+  height: 300px;
+  background-color: seagreen;
+  padding-top: 0px;
+
+}
+
+.top {
+    text-align: center;
+    font-size: large;
+    font-family: fantasy;
+    background-color: indigo;
+    color:wheat;
+    
+}
+
+.middle {
+    text-align: center;
+    font-size:xx-large;
+    font-family: cursive;
+    background-color: purple;
+    height: 100px;
